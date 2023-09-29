@@ -4,26 +4,27 @@ To add or remove sites, simply edit the sites.json file. Each site object has a 
 Remember to follow the JSON format and ensure that the URLs are correctly formatted.
 
 [
+
 {
 
     "Name": "Example Site",
 	"URL": "https://www.example.com",
 	"History": []
-	 
-   									},
+	
+   				},
   	{
   
     "Name": "Google",
     "URL": "https://www.google.com",
     "History": []
   
-  									},
+  				},
     {
   
     "Name": "GitHub",
     "URL": "https://www.github.com",
     "History": []
-									  }
+				}
   
 ]
 
