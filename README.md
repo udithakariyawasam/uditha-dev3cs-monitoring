@@ -5,7 +5,7 @@ Remember to follow the JSON format and ensure that the URLs are correctly format
 
 [
 
-{
+	{
 
     "Name": "Example Site",
 	"URL": "https://www.example.com",
